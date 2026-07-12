@@ -1,6 +1,6 @@
 # Who Am I?
 
-- 👋 Hi, I’m **@Daniel34990** (Daniel Akbarinia), a digital engineering student at **Télécom Paris (Institut Polytechnique de Paris)**
+- 👋 Hi, I’m **@Daniel34990** (Daniel Barran), a digital engineering student at **Télécom Paris (Institut Polytechnique de Paris)**
 - 👀 I’m interested in **image processing**, **computer vision**, and **data science** using artificial intelligence (deep learning, machine learning)
 - 🌱 I’m currently learning advanced ML/DL techniques for **image segmentation**, **classification**, and **object detection**
 - 💞️ I’m looking to collaborate on research projects related to **data science**, **AI**.
