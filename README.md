@@ -1,32 +1,32 @@
 # Who Am I?
 
-- 👋 Hi, I’m **@Daniel34990** (Daniel Barran), a digital engineering student at **Télécom Paris (Institut Polytechnique de Paris)**
-- 👀 I’m interested in **image processing**, **computer vision**, and **data science** using artificial intelligence (deep learning, machine learning)
-- 🌱 I’m currently learning advanced ML/DL techniques for **image segmentation**, **classification**, and **object detection**
-- 💞️ I’m looking to collaborate on research projects related to **data science**, **AI**.
-- 📫 How to reach me: **daniel.akbarinia@telecom-paris.fr**
+- 👋 Hi, I'm **@Daniel34990** (Daniel Barran), an AI engineer graduating in **December 2026** from a dual master's between **Télécom Paris (Institut Polytechnique de Paris)** and the **MVA programme at ENS Paris-Saclay**
+- 🔬 Currently an **R&D intern in agentic AI** at **BGL BNP Paribas Luxembourg (Datalab)**, where I build a multimodal document-search agent on an open-weight VLM
+- 👀 I'm interested in **LLMs**, **AI agents**, **post-training (SFT, RLHF, GRPO)**, and **multimodal deep learning**
+- 🌱 I'm currently working on **on-policy self-distillation** for agent self-improvement, and on distributed training infrastructure
+- 💼 I'm **looking for a full-time role** in AI research / ML engineering, available from **December 2026**
+- 📫 How to reach me: **dbarran1234@gmail.com** · [LinkedIn](https://www.linkedin.com/in/daniel-barran-927495250/)
 - 😄 Pronouns: **He/Him**
 
 ---
 
 ## 🔧 Skills & Techniques
 
-- **Machine Learning**:  
-  Supervised & Unsupervised Learning, Clustering (K-Means, Mixture Models), SVM, Random Forest
+- **LLMs & Post-training**:  
+  Supervised fine-tuning (SFT), reinforcement learning (GRPO, RLHF), on-policy self-distillation, synthetic data generation, LLM-as-a-judge reward design, evaluation & benchmarking
+
+- **AI Agents & Retrieval**:  
+  Multimodal (vision-language) agents, RAG, embedding retrieval, semantic search, guardrails, LangGraph, FAISS
 
 - **Deep Learning**:  
-  CNNs (ResNet, U-Net), Transformers
-
-- **Image Processing**:  
-  Edge Detection, Filtering (Gaussian, Median), Restoration, Fourier Transform, Wavelets, Hough Transform, Image Registration
+  Transformers, FlashAttention, diffusion models (DDPM), self-supervised learning (SimCLR, Barlow Twins), CNNs (ResNet, U-Net)
 
 - **Computer Vision**:  
-  Object Detection, Image Segmentation (Active Contours, Graph-Cut, CNNs), Feature Extraction (SIFT), 3D Modeling
+  Image classification & segmentation, object detection, feature extraction, medical imaging
 
-- **Programming & Frameworks**:  
-  Python, TensorFlow, PyTorch, OpenCV, Scikit-Learn, Linux
+- **Engineering & MLOps**:  
+  Python, C, PyTorch, TensorFlow, Hugging Face (Transformers, Datasets, TRL), vLLM, FastAPI, Docker, Git/GitHub, CI/CD, distributed multi-GPU training, Linux
 
 ---
 
-🚀 Looking forward to exciting research opportunities!
-
+🚀 Open to full-time opportunities in AI — feel free to reach out!
